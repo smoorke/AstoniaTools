@@ -12,3 +12,5 @@ A collection of tools for Astonia3
 [PentaChrome](https://github.com/smoorke/AstoniaTools/releases/download/Astonia3/PentaChrome.exe)
 
 [XpMon](https://github.com/smoorke/AstoniaTools/releases/download/Astonia3/XpMon.exe)
+
+[keys.txt](https://github.com/smoorke/AstoniaTools/releases/download/Astonia3/keys.txt)
