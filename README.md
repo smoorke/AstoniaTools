@@ -19,9 +19,9 @@ Live Map of Pentagram Quest.
 [XpMon](https://github.com/smoorke/AstoniaTools/releases/download/Astonia3/XpMon.exe)
 
 [keys.txt](https://github.com/smoorke/AstoniaTools/releases/download/Astonia3/keys.txt)
-values you may need to enter to make tools work  \
-
-
+values you may need to enter to make tools work  
+<br\>
+<br\>
 Also check out [ScalA](https://github.com/smoorke/ScalA) Astonia Window Scaler
 
 And [RDTracker](https://github.com/smoorke/RDTracker)
