@@ -22,4 +22,5 @@ Live Map of Pentagram Quest.
 values you may need to enter to make tools work
 
 Also check out [ScalA](https://github.com/smoorke/ScalA) Astonia Window Scaler
+
 And [RDTracker](https://github.com/smoorke/RDTracker)
